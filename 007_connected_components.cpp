@@ -68,7 +68,7 @@ int testcase(int t)
 
         // for (auto i : vec)
         //     for (auto j : i)
-        f(j, 1, 10)
+        f(j, 1, v + 1)
         {
             if (!visit[j])
             {

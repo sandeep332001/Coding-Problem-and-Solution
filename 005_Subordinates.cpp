@@ -33,7 +33,6 @@ bool visit[200001];
 void dfs(ll node)
 {
 
-    visit[node] = true;
 }
 
 int testcase(int t)
